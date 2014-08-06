@@ -9,17 +9,17 @@ Android-游戏底层库 [Simim](https://github.com/neuoZhuo/Simim "Simim")示例
 * **2048**. 展示Simim基础结构，包含基本的纹理贴图、平移、缩放等功能，原生Android应用，非网页版。
 
 
-How to run a sample
+如何运行一个示例
 ------------
 
-<h3>Using Eclipse...</h3>
+<h3>使用eclipse</h3>
 
-1. Start Eclipse
-1. Import the [Simim library](https://github.com/neuoZhuo/Simim "Simim") project:
-    1. Click **File | Import | Android | Existing Android Code into Workspace**
-    1. Select `Simim`
-    1. Click **Finish**
-1. Import the desired sample (Project | Import | Android | Existing Android Source)
-1. Go into the project properties window for that project (right-click, **Properties**) and check that this project has a reference to the `Simim` project.
+1. 启动eclipse
+1. Import [Simim library](https://github.com/neuoZhuo/Simim "Simim") 工程：
+    1. 单击 **File | Import | Android | Existing Android Code into Workspace**
+    1. 选择 `Simim`
+    1. 单机 **Finish**
+1. Import 下载的示例 (Project | Import | Android | Existing Android Source)
+1. 在eclipse左侧导航栏选择导入示例 (右击, **Properties**)，选择Android一栏，加入 `Simim` 项目。
 
-Your project should now compile.
+现在项目应该编译成功。
