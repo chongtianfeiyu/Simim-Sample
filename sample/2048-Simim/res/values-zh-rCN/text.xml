@@ -1,0 +1,4 @@
+ <resources>   
+      <string name="connecting">正在连接  Google Play 服务</string>
+      <string name="updateGoogle">需要下载最新的  Google Play 服务</string>
+ </resources>
