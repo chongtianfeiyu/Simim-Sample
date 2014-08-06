@@ -12,5 +12,5 @@ Android-游戏底层库 [Simim](https://github.com/neuoZhuo/Simim "Simim")示例
 FAQ
 ------------
 
-How to use
+How to run a sample
 ------------
