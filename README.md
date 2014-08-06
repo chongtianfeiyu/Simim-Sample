@@ -12,4 +12,6 @@ Android-游戏底层库 [Simim](https://github.com/neuoZhuo/Simim "Simim")示例
 How to run a sample
 ------------
 
+<h3>If you're using Eclipse...</h3>
+
 * **2048**.
