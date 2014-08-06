@@ -19,7 +19,7 @@ Android-游戏底层库 [Simim](https://github.com/neuoZhuo/Simim "Simim")示例
     1. 单击 **File | Import | Android | Existing Android Code into Workspace**
     1. 选择 `Simim`
     1. 单机 **Finish**
-1. Import 下载的示例 (Project | Import | Android | Existing Android Source)
-1. 在eclipse左侧导航栏选择导入示例 (右击, **Properties**)，选择Android一栏，加入 `Simim` 项目。
+1. Import 下载的示例工程，方法如上。
+1. 在eclipse左侧导航栏右击导入示例工程 ，在弹出框中选择**Properties**，选择左侧Android一栏，选择**Add**， 加入 `Simim` 项目。
 
 现在项目应该编译成功。
